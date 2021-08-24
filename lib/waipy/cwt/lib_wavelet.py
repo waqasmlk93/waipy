@@ -45,7 +45,6 @@ def wave_bases(mother, k, scale, param):
     coi            - a number, the cone-of-influence size at the scale
     dofmin         - a number, degrees of freedom for each point in the
                      wavelet power (Morlet = 2)
-
     Call function:
     daughter,fourier_factor,coi,dofmin = wave_bases(mother,k,scale,param)
     _____________________________________________________________________
